@@ -1,0 +1,69 @@
+body{
+	background-color: purple;
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px;
+	flex-flow: row-reverse;
+
+}
+
+p{
+	font-family: cursive;
+}
+
+.more {
+	background-color: violet;
+	text-align:center;
+	color: black;
+
+}
+
+.head{
+	border: 50px;
+	color: teal;
+	background-color: white;
+	text-align: center;
+	font-family: candara;
+
+}
+
+.header{
+		background-color: violet;
+		align-content: center;
+}
+
+
+img {
+	width: 200px;
+}
+
+table {
+	background-color: indigo;
+	column-span: 20px;
+	border:5px solid indianred;
+	margin-left: 15px;
+	margin-right: 15px;
+	}
+
+
+tr{
+	background-color: #FF29FF;
+	font-size: 19px;
+	border-color: blue;
+	column-span: 20px;
+	border:10px
+
+
+}
+
+td{
+	color: black;
+}
+
+
+h1{
+	font-family: candara;
+	font-size: 50px;
+}
+
+
